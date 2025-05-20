@@ -1,0 +1,14 @@
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.exe
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.deps.json
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.runtimeconfig.json
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.dll
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.pdb
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfoInputs.cache
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfo.cs
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.csproj.CoreCompileInputs.cache
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.dll
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\refint\Ejercicio_2.dll
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.pdb
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.genruntimeconfig.cache
+D:\Taller de Lenguajes\Ejercicios\Ejercicio_2\obj\Debug\net8.0\ref\Ejercicio_2.dll
