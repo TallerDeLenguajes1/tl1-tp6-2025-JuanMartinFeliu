@@ -155,3 +155,109 @@ while (seguir > 0)
     seguir = Convert.ToInt32(Console.ReadLine());
 }
 */
+
+/*
+Console.Write("Ingrese una cadena de texto: ");
+        string cadena1 = Console.ReadLine();
+
+        // Longitud de la cadena
+        Console.WriteLine("Longitud de la cadena: " + cadena1.Length);
+
+        // Concatenar con una segunda cadena
+        Console.Write("Ingrese una segunda cadena: ");
+        string cadena2 = Console.ReadLine();
+        string concatenada = cadena1 + " " + cadena2;
+        Console.WriteLine("Cadenas concatenadas: " + concatenada);
+
+        // Extraer una subcadena
+        Console.Write("Ingrese la posición inicial de la subcadena: ");
+        int inicio = int.Parse(Console.ReadLine());
+        Console.Write("Ingrese la longitud de la subcadena: ");
+        int longitud = int.Parse(Console.ReadLine());
+        string subcadena = cadena1.Substring(inicio, longitud);
+        Console.WriteLine("Subcadena: " + subcadena);
+
+        // Calculadora simple
+        Console.Write("Ingrese el primer número: ");
+        double num1 = double.Parse(Console.ReadLine());
+        Console.Write("Ingrese el segundo número: ");
+        double num2 = double.Parse(Console.ReadLine());
+        double suma = num1 + num2;
+        Console.WriteLine("La suma de " + num1.ToString() + " y " + num2.ToString() + " es igual a: " + suma.ToString());
+
+        // Recorrer la cadena con foreach
+        Console.WriteLine("Caracteres en la cadena:");
+        foreach (char c in cadena1)
+        {
+            Console.WriteLine(c);
+        }
+
+        // Buscar una palabra en la cadena
+        Console.Write("Ingrese una palabra a buscar: ");
+        string palabra = Console.ReadLine();
+        if (cadena1.Contains(palabra))
+        {
+            Console.WriteLine("La palabra '" + palabra + "' fue encontrada.");
+        }
+        else
+        {
+            Console.WriteLine("La palabra '" + palabra + "' no fue encontrada.");
+        }
+
+        // Mayúsculas y minúsculas
+        Console.WriteLine("En mayúsculas: " + cadena1.ToUpper());
+        Console.WriteLine("En minúsculas: " + cadena1.ToLower());
+
+        // Separar una cadena con delimitador
+        Console.Write("Ingrese una cadena separada por guiones (-): ");
+        string cadenaSeparada = Console.ReadLine();
+        string[] partes = cadenaSeparada.Split('-');
+        Console.WriteLine("Partes separadas:");
+        foreach (string parte in partes)
+        {
+            Console.WriteLine(parte);
+        }
+
+        // Resolver una ecuación simple como "582+2"
+        Console.Write("Ingrese una ecuación simple (ej: 582+2): ");
+        string ecuacion = Console.ReadLine();
+        if (ecuacion.Contains("+"))
+        {
+            string[] numeros = ecuacion.Split('+');
+            double n1 = double.Parse(numeros[0]);
+            double n2 = double.Parse(numeros[1]);
+            Console.WriteLine($"Resultado: {n1 + n2}");
+        }
+        else if (ecuacion.Contains("-"))
+        {
+            string[] numeros = ecuacion.Split('-');
+            double n1 = double.Parse(numeros[0]);
+            double n2 = double.Parse(numeros[1]);
+            Console.WriteLine($"Resultado: {n1 - n2}");
+        }
+        else if (ecuacion.Contains("*"))
+        {
+            string[] numeros = ecuacion.Split('*');
+            double n1 = double.Parse(numeros[0]);
+            double n2 = double.Parse(numeros[1]);
+            Console.WriteLine($"Resultado: {n1 * n2}");
+        }
+        else if (ecuacion.Contains("/"))
+        {
+            string[] numeros = ecuacion.Split('/');
+            double n1 = double.Parse(numeros[0]);
+            double n2 = double.Parse(numeros[1]);
+            if (n2 != 0)
+            {
+                Console.WriteLine($"Resultado: {n1 / n2}");
+            }
+            else
+            {
+                Console.WriteLine("Error: división por cero.");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Operación no reconocida.");
+        }
+*/
